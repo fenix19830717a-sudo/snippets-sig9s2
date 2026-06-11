@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fenix19830717a-sudo.github.io/snippets-sig9s2/sitemap.xml
